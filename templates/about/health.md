@@ -2,6 +2,8 @@ title: Staying healthy at EMF
 ---
 # Staying healthy at EMF
 
+This is a test.
+
 <div class="well">
 This page applies to Electromagnetic Field 2026.
 It may be updated before the event but any commitments made in this policy will not be weakened.
